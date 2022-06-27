@@ -1,0 +1,9 @@
+C:\dotnet repositry\Codebased5\Codebased5\obj\Debug\net6.0\Codebased5.csproj.AssemblyReference.cache
+C:\dotnet repositry\Codebased5\Codebased5\obj\Debug\net6.0\Codebased5.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet repositry\Codebased5\Codebased5\obj\Debug\net6.0\Codebased5.AssemblyInfoInputs.cache
+C:\dotnet repositry\Codebased5\Codebased5\obj\Debug\net6.0\Codebased5.AssemblyInfo.cs
+C:\dotnet repositry\Codebased5\Codebased5\obj\Debug\net6.0\Codebased5.csproj.CoreCompileInputs.cache
+C:\dotnet repositry\Codebased5\Codebased5\obj\Debug\net6.0\Codebased5.MvcApplicationPartsAssemblyInfo.cs
+C:\dotnet repositry\Codebased5\Codebased5\obj\Debug\net6.0\Codebased5.MvcApplicationPartsAssemblyInfo.cache
+C:\dotnet repositry\Codebased5\Codebased5\obj\Debug\net6.0\Codebased5.RazorAssemblyInfo.cache
+C:\dotnet repositry\Codebased5\Codebased5\obj\Debug\net6.0\Codebased5.RazorAssemblyInfo.cs
